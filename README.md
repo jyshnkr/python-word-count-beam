@@ -36,6 +36,6 @@
 
 > ```python -m apache_beam.examples.wordcount --input /path/to/inputfile --output /path/to/write/counts```
 
-10. You can find the output file in your directory. Open with VS Code to view th counts output file.
+10. You can find the output file in your directory. Open with VS Code to view thre counts output file.
 
 
